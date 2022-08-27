@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi from Brajesh 👋
 
 <!--
 **brajeshkanungo/brajeshkanungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🥳 About Me
+
+👉  I’m a self taught full-stack developer 🖥️
+
+👉  Lives in Indore, India 🇮🇳
+<br>
+
+### Reach me 👇
+<a href="https://www.linkedin.com/in/brajesh-kanungo-470ba286/" target="_blank">
+    <img alt="brajesh kanungo | linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80"/>
+</a> &nbsp;&nbsp;
+  
+<br>
+<br>
